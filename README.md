@@ -1,1 +1,1 @@
-https://github.com/fullstack-decal-sp23/project1-mihika12345b
+https://fullstack-decal-sp23.github.io/project1-mihika12345b/
